@@ -1,0 +1,9 @@
+.DS_store
+node_modules
+.env
+credentials.cfg
+.sass-cache
+venv
+.idea/
+.ipynb_checkpoints/
+__pycache__/
